@@ -1,0 +1,25 @@
+.carcont {
+  position: absolute;
+  top: 40%;
+  left: 65%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+  z-index: 3;
+  width: 30%;
+  word-spacing: 3px;
+  letter-spacing: 1px;
+  line-height: 1.6;
+}
+.carcont h1 {
+  font-size: 40px;
+  color: rgb(174, 173, 173);
+}
+.carcont p {
+  color: rgb(120, 116, 116);
+  font-size: 19px;
+  font-weight: 300;
+  text-align: center;
+}
